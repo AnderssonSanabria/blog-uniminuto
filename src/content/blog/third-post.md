@@ -2,7 +2,7 @@
 title: 'Ventajas, desventajas y diferencias con el cifrado simétrico'
 description: 'Compara el cifrado asimétrico y simétrico, sus beneficios y limitaciones.'
 pubDate: 'Feb 05 2025'
-heroImage: 'crypto-comparison.png'
+heroImage: '/crypto-comparison.png'
 ---
 
 | Característica        | Cifrado Asimétrico | Cifrado Simétrico |
